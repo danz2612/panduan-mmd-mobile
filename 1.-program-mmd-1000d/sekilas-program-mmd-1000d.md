@@ -1,0 +1,5 @@
+# 💡 Sekilas Program MMD 1000D
+
+## Sekilas Program MMD 1000D
+
+Mahasiswa Membangun Desa Universitas Brawijaya dengan target 1000 desa di Jawa Timur selanjutnya disebut dengan MMD-1000D, UB. Program ini merupakan salah program yang didesign untuk meningkatkan keterlibatan perguruan tinggi melalui mahasiswa berperan aktif dalam kegiatan penguatan kapasitas sosial, ekonomi, dan lingkungan masyarakat. MMD-1000D diwajibkan diikuti oleh mahasiswa setelah menempuh semester-4 Program Sarjana/Diploma-4 (angkatan 2021) dan dapat diikuti oleh mahasiswa Angkatan 2019 dan 2020 yang belum mengambil Pengabdian Masyarakat atau yang setara. Rekognisi kegiatan ini adalah UBU-60005 MK Pengabdian Kepada Masyarakat (4 sks) di semester antara Genap ke Ganjil Tahun Akademik Bersangkutan. Hadirnya program MMD-1000D diharapkan memberikan dampak positif signifikan pada pembangunan desa, tindak lanjut pada implementasi MBKM, pencapaian IKU, Partisipasi IKM untuk dosen-mahasiswa-dosen-stakeholder, THE Impact Rangking, Akreditasi Nasional dan Internasional, serta pengembangan Data Center, Universitas Brawijaya.

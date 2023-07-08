@@ -2,10 +2,10 @@
 
 * [Mahasiswa Membangun Desa](README.md)
 
-## Overview
+## 1. Program MMD 1000D
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [💡 Sekilas Program MMD 1000D](1.-program-mmd-1000d/sekilas-program-mmd-1000d.md)
+* [✨ Our Features](1.-program-mmd-1000d/our-features.md)
 
 ## Product Guides
 
